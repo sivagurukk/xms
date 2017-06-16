@@ -1,3 +1,6 @@
 .ion-chatbox {
    color: LightBlue;
 }
+.ion-ionic:chatbox {
+   content: "\f11c";
+ }
