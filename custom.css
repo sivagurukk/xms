@@ -1,17 +1,3 @@
- .bar-side-menu {
-   background-color: pink;
- }
- 
- .bar-content {
-   background-color: pink;
- }
- 
- .button.button-positive {
-   border-color: blue;
-   background-color: blue;
-    color: #fff;
- } 
- 
- .item-divider {
-   background-color: #fafafa;
- }
+.ion-chatbox {
+   color: LightBlue;
+}
