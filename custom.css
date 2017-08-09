@@ -1,3 +1,23 @@
-.bar-header {
-  background-color: #5069A1;
+body {
+   direction: rtl; 
+   text-align: right;
 }
+*/
+ 
+ .bar-side-menu {
+   background-color: black;
+ }
+ 
+ .bar-content {
+   background-color: red;
+ }
+ 
+ .button.button-positive {
+   border-color: black;
+   background-color: black;
+    color: #000000;
+ } 
+ 
+ .item-divider {
+   background-color: #000000;
+ }
